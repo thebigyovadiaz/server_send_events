@@ -1,2 +1,2 @@
-# server_send_events
-Server GO to send events 
+# Server Send Events
+This Proof of concept is a server to send notification between clients connected 
